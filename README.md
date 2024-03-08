@@ -1,7 +1,7 @@
 # Frontend Mentor - Recipe page solution
 
-![Design preview for the Recipe page coding challenge](./public/desktop-design.png)
-![Design preview for the Recipe page coding challenge](./public/mobile-design.png)
+![Design preview for the Recipe page coding challenge](./public/desktop-design.jpg)
+![Design preview for the Recipe page coding challenge](./public/mobile-design.jpg)
 
 
 Site is live at 
